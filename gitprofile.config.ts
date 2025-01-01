@@ -80,8 +80,6 @@ const CONFIG = {
     'Nmap',
     'Bash',
     'VMWare Workstation Pro,
-    'English', 'Spanish', 'Japanese',
-    
   ],
   experiences: [
     {
