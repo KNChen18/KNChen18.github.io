@@ -99,10 +99,16 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Pre-Security',
+      body: 'TryHackMe',
+      year: 'November 2024',
+      link: 'https://tryhackme.com',
+    },
+    {
+      name: 'Intro to Cybersecurity',
+      body: 'TryHackMe',
+      year: 'September 2024',
+      link: 'https://tryhackme.com',
     },
   ],
   educations: [
