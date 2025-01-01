@@ -79,7 +79,7 @@ const CONFIG = {
     'Active Directory',
     'Nmap',
     'Bash',
-    'VMWare Workstation Pro,
+    'VMWare Workstation Pro',
   ],
   experiences: [
     {
