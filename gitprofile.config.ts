@@ -83,18 +83,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'Lynnwood Vision Center',
+      position: 'Optometric Technician (Lead)',
       from: 'September 2021',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.google.com/search?client=firefox-b-1-d&q=Lynnwood+VIsion+center&lqi=ChZMeW5ud29vZCBWSXNpb24gY2VudGVySOf_p_C-roCACFoiEAEQAhgAGAEYAiIWbHlubndvb2QgdmlzaW9uIGNlbnRlcpIBC29wdG9tZXRyaXN0mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJQT0daRGR6Sm5SUkFCqgFREAEqESINdmlzaW9uIGNlbnRlcigAMh4QASIagQogMTTR4GD2ln61rMBv_HM2hVTTbNKqbLUyGhACIhZseW5ud29vZCB2aXNpb24gY2VudGVy4AEA-gEECHkQQg#rlimm=7355729923831386859,
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Pacific Science Center',
+      position: 'Site Lead',
+      from: 'June 2023',
+      to: 'August 2024',
+      companyLink: 'https://pacificsciencecenter.org/',
     },
   ],
   certifications: [
