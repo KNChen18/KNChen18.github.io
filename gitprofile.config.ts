@@ -71,15 +71,17 @@ const CONFIG = {
     'JavaScript',
     'React.js',
     'WireShark',
-    'Nest.js',
     'MySQL',
     'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'Linux',
+    'Active Directory',
+    'Nmap',
+    'Bash',
+    'VMWare Workstation Pro,
+    'English', 'Spanish', 'Japanese',
+    
   ],
   experiences: [
     {
@@ -113,17 +115,17 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'University of Washington (Bothell)',
+      degree: 'Bachelors of Applied Computing, minor in Education & Societies',
+      from: '2019',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+      institution: 'Raisbeck Aviation High School',
+      degree: 'High School',
+      from: '2015',
+      to: '2019',
+    }
   ],
   publications: [
     {
@@ -146,11 +148,11 @@ const CONFIG = {
     },
   ],
   // Display articles from your medium or dev account. (Optional)
-  blog: {
+  /*blog: {
     source: 'dev', // medium | dev
     username: 'arifszn', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
-  },
+  }, */
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
