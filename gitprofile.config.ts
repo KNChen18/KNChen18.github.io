@@ -33,9 +33,9 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'CyberQuest',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'Information Security Education Built for Educators and Students.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
@@ -52,42 +52,25 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Kristina Chen',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/kristina-chen/',
+    website: 'TBA',
+    email: 'KNChen18@hotmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.linkedin.com/in/kristina-chen/details/featured/1735693235710/single-media-viewer/?profileId=ACoAACt_6nMBOmu1N2gmiAfwhWeaarUP_BzqGJQ', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'C++',
+    'C',
     'JavaScript',
     'React.js',
-    'Node.js',
+    'WireShark',
     'Nest.js',
     'MySQL',
     'PostgreSQL',
