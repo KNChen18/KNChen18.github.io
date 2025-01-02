@@ -72,7 +72,6 @@ const CONFIG = {
     'Nmap',
     'Bash',
     'VMWare Workstation Pro',
-    'Graphic Design',
   ],
   experiences: [
     {
