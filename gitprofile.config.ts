@@ -72,7 +72,7 @@ const CONFIG = {
     'Bash',
     'VMWare Workstation Pro',
     'Active Directory Management',
-    'Office365 Management,
+    'Office365 Management',
     'Hardware Repair',
     'Switch Management',
     'Asset Management',
